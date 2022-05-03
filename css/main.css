@@ -212,26 +212,26 @@ h1 {
 }
 
 
-.transformacion
-{
-    
-    transition-property:all;
+.transformacion {
+
+    transition-property: all;
     transition-duration: .5s;
     transition-delay: .5s;
-    transition-timing-function:ease;
+    transition-timing-function: ease;
 
-    width:200px;
+    width: 200px;
     height: 200px;
 }
-section{
+
+section {
     text-align: center;
 }
 
-.transformacion:hover{
+.transformacion:hover {
 
     width: 400px;
     height: 400px;
-   
+
 }
 
 .flex-courses p,
