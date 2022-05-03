@@ -445,6 +445,8 @@ h2 {
 
     }
 
+    /*Inicio animaciones*/
+
     .animation {
         float: left;
         width: 200px;
@@ -464,8 +466,6 @@ h2 {
         animation-timing-function: ease;
         animation-duration: 2s;
         animation-delay: .5s;
-        /* transition-property: all; */
-        /* transition-duration: .5s; */
     }
 
     @keyframes fade-in {
@@ -488,6 +488,7 @@ h2 {
         }
     }
 
+    /*Fin animaciones*/
 
 
     .imagenSection {
@@ -496,6 +497,7 @@ h2 {
 
     }
 
+    /*Estilos Menu*/
     .control-menu .open {
         background-position: right;
         margin-right: 0.5em;
@@ -550,6 +552,8 @@ h2 {
         margin: 0 1.3em;
         text-decoration: inherit;
     }
+
+    /*Fin Menu*/
 
 
     /* Inicio estilos Footer */
